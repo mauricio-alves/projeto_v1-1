@@ -6,3 +6,7 @@ Windows (CR+LF)
 Linux (LF)
 
 faser de nbovo
+
+
+
+salve! mauricio aqui! #keepcoding
